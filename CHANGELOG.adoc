@@ -13,7 +13,11 @@
 
 == Unreleased changes (release date TBD)
 
-https://github.com/oxidecomputer/dropshot/compare/v0.16.7\...HEAD[Full list of commits]
+https://github.com/oxidecomputer/dropshot/compare/v0.17.0\...HEAD[Full list of commits]
+
+== 0.17.0 (released 2026-03-16)
+
+https://github.com/oxidecomputer/dropshot/compare/v0.16.7\...v0.17.0[Full list of commits]
 
 * https://github.com/oxidecomputer/dropshot/pull/1528[#1528] Added `PaginationParams::new_first_page` to facilitate testing
 * https://github.com/oxidecomputer/dropshot/pull/1549[#1549] Fixed typo in `HttpResponseError` docs
